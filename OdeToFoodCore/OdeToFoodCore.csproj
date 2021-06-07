@@ -23,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Api\" />
     <Folder Include="Pages\R2\" />
   </ItemGroup>
 
